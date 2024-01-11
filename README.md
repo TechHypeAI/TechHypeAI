@@ -1,2 +1,1 @@
-# TechHypeAI
-Company Website
+My Company 
